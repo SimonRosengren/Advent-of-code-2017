@@ -1,2 +1,1 @@
-# Advent-of-code-2017
-Solutions for AoC using c++
+# Solutions for AoC 2017 using c++
